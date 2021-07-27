@@ -31,7 +31,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 
 **My Stats (Made by [anuraghzra](https://github.com/anuraghazra/github-readme-stats)):**
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MRegirouard&theme=dark&count_private=true">
+<img align="center" height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=MRegirouard&theme=dark&count_private=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRegirouard&theme=dark&layout=compact">
 
 <a href="https://github.com/MRegirouard/TippingPoint">
