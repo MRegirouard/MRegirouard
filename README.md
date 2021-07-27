@@ -40,6 +40,8 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="Google" title="Google" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png">
   <img height="30" alt="NPM" title="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png">
   <img height="40" alt="NASM" title="NASM" src="https://akash-nasm-tutorial.netlify.app/img/nasm-logo.png">
+  <img height="40" alt="Blender" title="Blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/733px-Blender_logo_no_text.svg.png">
+  <img height="40" alt="GitHub Copilot" title="GitHub Copilot" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png">
 </div>
 <br><br>
 
