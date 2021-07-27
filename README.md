@@ -47,11 +47,11 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 </a>
 
 ## My Computer
-**OS:** Ubuntu 20.04.2 LTS x86_64
-**Motherboard:** X8DT3 Server Board
-**CPU:** 2 \* Intel Xeon X5660 @ 2.80GHz (2 CPUs - 12 Cores - 24 Threads)
-**GPU:** NVIDIA GeForce GT 1030
-**RAM:** 10 * 4GB DDR3 1066MHz
-**Displays:** GIGABYTE G27Q 27" 144Hz 1440P, HP 24mh FHD 1080p 75Hz
-**Storage:** 3 * 1TB HDD, 1 * 2TB HDD, 1 * 480 GB SSD
+**OS:** Ubuntu 20.04.2 LTS x86_64 <br>
+**Motherboard:** X8DT3 Server Board <br>
+**CPU:** 2 \* Intel Xeon X5660 @ 2.80GHz (2 CPUs - 12 Cores - 24 Threads) <br>
+**GPU:** NVIDIA GeForce GT 1030 <br>
+**RAM:** 10 * 4GB DDR3 1066MHz <br>
+**Displays:** GIGABYTE G27Q 27" 144Hz 1440P, HP 24mh FHD 1080p 75Hz <br>
+**Storage:** 3 * 1TB HDD, 1 * 2TB HDD, 1 * 480 GB SSD <br>
              480GB RAID 1 Boot, 3 TB RAID 5 Storage, 520 GB Backup
