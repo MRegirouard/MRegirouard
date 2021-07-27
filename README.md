@@ -17,6 +17,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="SQL" title="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
   <img height="40" alt="C++" title="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
   <img height="40" alt="Processing" title="Processing" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png">
+  <img height="40" alt="Assembly" title="Assembly" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png">
  </div>
 <br><br>
 
@@ -38,6 +39,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="Lichess" title="Lichess" src="https://upload.wikimedia.org/wikipedia/en/6/6d/Lichess_Logo_2019.png">
   <img height="40" alt="Google" title="Google" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png">
   <img height="30" alt="NPM" title="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png">
+  <img height="40" alt="NASM" title="NASM" src="https://akash-nasm-tutorial.netlify.app/img/nasm-logo.png">
 </div>
 <br><br>
 
