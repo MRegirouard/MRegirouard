@@ -24,12 +24,20 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 <br>
 <div id="banner" style="overflow: hidden;justify-content:space-around;">
   <img height="40" alt="Ubuntu 20.04" title="Ubuntu 20.04" src="https://miro.medium.com/max/512/1*ZLVwDPb9UFXACsXy5LfO9Q.png">
-  <img height="40" alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png">
+  <img height="40" alt="Android" title="Android" src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png">
   <img height="40" alt="Discord" title="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png">
   <img height="40" alt="Adobe Illustrator" title="Adobe Illustrator" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png">
+    <img height="40" alt="Inkscape" title="Inkscape" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Inkscape_logo_2.svg/1024px-Inkscape_logo_2.svg.png">
   <img height="40" alt="Eclipse" title="Eclipse" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png">
   <img height="40" alt="Android Studio" title="Android Studio" src="https://drasite.com/content/img/icons/android-studio.svg">
   <img height="40" alt="Arduino" title="Arduino" src="https://cdn.iconscout.com/icon/free/png-256/arduino-226072.png">
+  <img height="40" alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png">
+  <img height="40" alt="Raspberry Pi" title="Raspberry Pi" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png">
+  <img height="40" alt="Tensorflow" title="Tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
+  <img height="40" alt="VEX V5" title="VEX V5" src="https://www.vexrobotics.com/media/wysiwyg/V5Logo.png">
+  <img height="40" alt="Lichess" title="Lichess" src="https://upload.wikimedia.org/wikipedia/en/6/6d/Lichess_Logo_2019.png">
+  <img height="40" alt="Google" title="Google" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png">
+  <img height="30" alt="NPM" title="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png">
 </div>
 <br><br>
 
