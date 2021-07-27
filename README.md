@@ -16,7 +16,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 <img height="40" alt="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
 <img height="40" alt="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
 <img height="40" alt="Processing" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png">
-<br>
+<br><br>
 
 **Tools and Software I Use:**
 <br>
@@ -27,3 +27,17 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 <img height="40" alt="Eclipse" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png">
 <img height="40" alt="Android Studio" src="https://drasite.com/content/img/icons/android-studio.svg">
 <img height="40" alt="Arduino" src="https://cdn.iconscout.com/icon/free/png-256/arduino-226072.png">
+<br><br>
+
+**My Stats (Made by [anuraghzra](https://github.com/anuraghazra/github-readme-stats)):**
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MRegirouard&theme=dark&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRegirouard&theme=dark&layout=compact">
+
+<a href="https://github.com/MRegirouard/TippingPoint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=TippingPoint&theme=dark" />
+</a>
+
+<a href="https://github.com/MRegirouard/CountdownBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=CountdownBot&theme=dark" />
+</a>
