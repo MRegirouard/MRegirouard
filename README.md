@@ -42,6 +42,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="NASM" title="NASM" src="https://akash-nasm-tutorial.netlify.app/img/nasm-logo.png">
   <img height="40" alt="Blender" title="Blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/733px-Blender_logo_no_text.svg.png">
   <img height="40" alt="GitHub Copilot" title="GitHub Copilot" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png">
+  <img height="40" alt="Qovery" title="Qovery" src="https://cdn.ireland.production.livestorm.io/uploads/organization/avatar/d38e55e3-d78d-49eb-b75f-74c0367b74d0/48115e52-24ed-42bb-8d31-9f952e0779e7.png?v=1591771967">
 </div>
 <br><br>
 
