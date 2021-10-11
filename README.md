@@ -43,6 +43,8 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="Blender" title="Blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/733px-Blender_logo_no_text.svg.png">
   <img height="40" alt="GitHub Copilot" title="GitHub Copilot" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png">
   <img height="40" alt="Qovery" title="Qovery" src="https://uploads-ssl.webflow.com/5de176bfd41c9b0a91bbb0a4/611449cdf061506c48ab8ade_qovery_square_new_logo.svg">
+  <img height="40" alt="Twitter" title="Twitter" src="https://utilitypeopleuk.com/wp-content/uploads/2017/06/twitter-icon-circle-blue-logo-preview.png">
+  <img height="40" alt="ClickUp" title="ClickUp" src="https://user-images.githubusercontent.com/46038297/136852763-8d055d3e-260c-4472-845b-980ac7dd77dd.png">
 </div>
 <br><br>
 
