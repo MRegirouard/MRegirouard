@@ -53,16 +53,24 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 <img align="center" height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=MRegirouard&theme=dark&count_private=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRegirouard&theme=dark&layout=compact">
 
-<a href="https://github.com/MRegirouard/TippingPoint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=TippingPoint&theme=dark" />
+<a href="https://github.com/MRegirouard/MonkeyMenSite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=MonkeyMenSite&theme=dark" />
 </a>
 
 <a href="https://github.com/MRegirouard/CountdownBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=CountdownBot&theme=dark" />
 </a>
 
-<a href="https://github.com/MRegirouard/MonkeyMenSite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=MonkeyMenSite&theme=dark" />
+<a href="https://github.com/MRegirouard/AutoBoard-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard-Website&theme=dark" />
+</a>
+
+<a href="https://github.com/MRegirouard/AutoBoard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard&theme=dark" />
+</a>
+
+<a href="https://github.com/MRegirouard/TippingPoint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=TippingPoint&theme=dark" />
 </a>
 
 ## My Computer
