@@ -73,6 +73,10 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=TippingPoint&theme=dark" />
 </a>
 
+<a href="https://github.com/MRegirouard/OpenSeaScripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=OpenSeaScripts&theme=dark" />
+</a>
+
 ## My Computer
 **OS:** Ubuntu 20.04.2 LTS x86_64 <br>
 **Motherboard:** X8DT3 Server Board <br>
