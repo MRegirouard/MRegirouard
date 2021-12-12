@@ -88,4 +88,4 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
              480GB RAID 1 Boot, 3 TB RAID 5 Storage, 520 GB Backup
 
 ## PGP Keys
-View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146).
+View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146), or in the [PGP.pub](https://github.com/MRegirouard/MRegirouard/blob/main/PGP.pub) file in this repository.
