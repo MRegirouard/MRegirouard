@@ -86,3 +86,6 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 **Displays:** GIGABYTE G27Q 27" 144Hz 1440P, HP 24mh FHD 1080p 75Hz <br>
 **Storage:** 3 * 1TB HDD, 1 * 2TB HDD, 1 * 480 GB SSD <br>
              480GB RAID 1 Boot, 3 TB RAID 5 Storage, 520 GB Backup
+
+## PGP Keys
+View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146).
