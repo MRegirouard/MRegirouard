@@ -2,8 +2,8 @@
 
 I'm MRegirouard (also known as eta357) and I'm a high school student and programmer. I've been writing code for almost 9 years.
 
-- 🔭 I’m currently working on several projects, including a few Discord bots, an NFT collection comprised of randomly generated monkeys, a chess AI, a quiz bowl scoring assitant, and more!
-- 🌱 I’m currently learning about SQL and NFT's.
+- 🔭 I’m currently working on several projects, including an [Automatic Chess Board](https://github.com/MRegirouard/AutoBoard), an [Automatic programming class grading system](https://github.com/MRegirouard/AutoGrader), an automated stock trading strategy, my personal [Arch Linux Install](https://github.com/MRegirouard/Arch357), and the [robot code](https://github.com/MRegirouard/TippingPoint) for my VEX team (99119A), as well as building a new computer.
+- 🌱 I’m currently learning about motion control and state machines.
 - 🎵 I also enjoy playing the piano, graphic designing, and flying my drone.
 - ⚡ Fun Fact: I am an early investor in ELONGATE 🚀
 
