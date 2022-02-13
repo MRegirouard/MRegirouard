@@ -3,7 +3,7 @@
 I'm MRegirouard (also known as eta357) and I'm a high school student and programmer. I've been writing code for almost 9 years.
 
 - 🔭 I’m currently working on several projects, including an [Automatic Chess Board](https://github.com/MRegirouard/AutoBoard), an [Automatic programming class grading system](https://github.com/MRegirouard/AutoGrader), an automated stock trading strategy, my personal [Arch Linux Install](https://github.com/MRegirouard/Arch357), and the [robot code](https://github.com/MRegirouard/TippingPoint) for my VEX team (99119A), as well as building a new computer.
-- 🌱 I’m currently learning about motion control and state machines.
+- 🌱 I’m currently learning about motion control, state machines, Python, and TypeScript.
 - 🎵 I also enjoy playing the piano, graphic designing, and flying my drone.
 - ⚡ Fun Fact: I am an early investor in ELONGATE 🚀
 
@@ -18,6 +18,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="C++" title="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
   <img height="40" alt="Processing" title="Processing" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png">
   <img height="40" alt="Assembly" title="Assembly" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png">
+  <img height="40" alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
  </div>
 <br><br>
 
