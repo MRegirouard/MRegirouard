@@ -46,6 +46,8 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="Qovery" title="Qovery" src="https://uploads-ssl.webflow.com/5de176bfd41c9b0a91bbb0a4/611449cdf061506c48ab8ade_qovery_square_new_logo.svg">
   <img height="40" alt="Twitter" title="Twitter" src="https://utilitypeopleuk.com/wp-content/uploads/2017/06/twitter-icon-circle-blue-logo-preview.png">
   <img height="40" alt="ClickUp" title="ClickUp" src="https://user-images.githubusercontent.com/46038297/136852763-8d055d3e-260c-4472-845b-980ac7dd77dd.png">
+  <img height="40" alt="Brave Browser" title="Brave Browser" src="https://www.drupal.org/files/project-images/brave-logo.png">
+  <img height="40" alt="Tabby" title="Tabby" src="https://ph-files.imgix.net/d7601b7e-8eb5-4248-a8bb-1584f35e1316.png?auto=format">
 </div>
 <br><br>
 
