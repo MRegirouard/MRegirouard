@@ -80,6 +80,18 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=OpenSeaScripts&theme=dark" />
 </a>
 
+## Links
+**Recursion:** https://github.com/MRegirouard <br>
+**Twitter:** https://twitter.com/monkey_man_357 <br>
+**Lichess:** https://lichess.org/@/eta357 <br>
+**NPM:** https://www.npmjs.com/~eta357 <br>
+**PyPi:** https://pypi.org/user/MRegirouard/ <br>
+**OpenSea:** https://opensea.io/monkey_man_357 <br>
+**Reddit:** https://www.reddit.com/user/eta357/ <br>
+**Discord:** eta357#1854 <br>
+**VEX Robotics:** https://www.robotevents.com/teams/VRC/99119A <br>
+**Etherscan:** https://etherscan.io/address/0x59Eca7CAa673D7e87336E61979b7BD7fE130B3d8
+
 ## My Computer
 **OS:** Ubuntu 20.04.2 LTS x86_64 <br>
 **Motherboard:** X8DT3 Server Board <br>
