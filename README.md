@@ -90,7 +90,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 **Reddit:** https://www.reddit.com/user/eta357/ <br>
 **Discord:** eta357#1854 <br>
 **VEX Robotics:** https://www.robotevents.com/teams/VRC/99119A <br>
-**Etherscan:** https://etherscan.io/address/0x59Eca7CAa673D7e87336E61979b7BD7fE130B3d8
+**Etherscan:** https://etherscan.io/address/0x59Eca7CAa673D7e87336E61979b7BD7fE130B3d8 <br>
 **GitHub Skyline:** https://skyline.github.com/MRegirouard/2021
 
 ## My Computer
