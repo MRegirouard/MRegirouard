@@ -48,6 +48,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="ClickUp" title="ClickUp" src="https://user-images.githubusercontent.com/46038297/136852763-8d055d3e-260c-4472-845b-980ac7dd77dd.png">
   <img height="40" alt="Brave Browser" title="Brave Browser" src="https://www.drupal.org/files/project-images/brave-logo.png">
   <img height="40" alt="Tabby" title="Tabby" src="https://ph-files.imgix.net/d7601b7e-8eb5-4248-a8bb-1584f35e1316.png?auto=format">
+  <img height="40" alt="Docker" title="Docker" src="https://clouddayscom.files.wordpress.com/2020/06/docker-logo.png">
 </div>
 <br><br>
 
