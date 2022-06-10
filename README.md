@@ -25,6 +25,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 ## Tools and Software I Use:
 <br>
 <div id="banner" style="overflow: hidden;justify-content:space-around;">
+  <img height="40" alt="Arch Linux" title="Arch Linux" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
   <img height="40" alt="Ubuntu 20.04" title="Ubuntu 20.04" src="https://miro.medium.com/max/512/1*ZLVwDPb9UFXACsXy5LfO9Q.png">
   <img height="40" alt="Android" title="Android" src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png">
   <img height="40" alt="Discord" title="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png">
