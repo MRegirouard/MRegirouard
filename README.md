@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm MRegirouard (also known as eta357) and I'm a high school student and programmer. I've been writing code for almost 9 years.
+I'm MRegirouard (also known as eta357) and I'm a high school student and programmer. I've been writing code for almost 10 years.
 
 - 🔭 I’m currently working on several projects, including an [Automatic Chess Board](https://github.com/MRegirouard/AutoBoard), an [Automatic programming class grading system](https://github.com/MRegirouard/AutoGrader), an automated stock trading strategy, my personal [Arch Linux Install](https://github.com/MRegirouard/Arch357), and the [robot code](https://github.com/MRegirouard/TippingPoint) for my VEX team (99119A), as well as building a new computer.
 - 🌱 I’m currently learning about motion control, state machines, Python, and TypeScript.
