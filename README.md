@@ -97,14 +97,13 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 **GitHub Skyline:** https://skyline.github.com/MRegirouard/2021
 
 ## My Computer
-**OS:** Ubuntu 20.04.2 LTS x86_64 <br>
-**Motherboard:** X8DT3 Server Board <br>
-**CPU:** 2 \* Intel Xeon X5660 @ 2.80GHz (2 CPUs - 12 Cores - 24 Threads) <br>
+**OS:** Arch Linux (btw) x86_64 <br>
+**Motherboard:** GIGABYTE AORUS ELITE WIFI X570 <br>
+**CPU:** 2 \* AMD Ryzen 5 5600X @ 3.7GHz (1 CPU - 6 Cores - 12 Threads) <br>
 **GPU:** NVIDIA GeForce GT 1030 <br>
-**RAM:** 10 * 4GB DDR3 1066MHz <br>
+**RAM:** Team T-FORCE Dark Za 32GB (2 x 16GB) DDR4 3200 <br>
 **Displays:** GIGABYTE G27Q 27" 144Hz 1440P, HP 24mh FHD 1080p 75Hz <br>
-**Storage:** 3 * 1TB HDD, 1 * 2TB HDD, 1 * 480 GB SSD <br>
-             480GB RAID 1 Boot, 3 TB RAID 5 Storage, 520 GB Backup
+**Storage:** 1 * 1TB Intel 670p Series M.2 NVME SSD (Boot), 1 * 480GB Kingston A400 <br>
 
 ## PGP Keys
 View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146), or in the [PGP.pub](https://github.com/MRegirouard/MRegirouard/blob/main/PGP.pub) file in this repository.
