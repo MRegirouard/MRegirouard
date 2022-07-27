@@ -105,5 +105,13 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 **Displays:** GIGABYTE G27Q 27" 144Hz 1440P, HP 24mh FHD 1080p 75Hz <br>
 **Storage:** 1 * 1TB Intel 670p Series M.2 NVME SSD (Boot), 1 * 480GB Kingston A400 <br>
 
+## My Storage Server
+**OS:** TrueNAS-SCALE-22.02.2.1 <br>
+**Motherboard:** X8DT3 Server Board <br>
+**CPU:** 2 * Intel Xeon X5660 @ 2.80GHz (2 CPUs - 12 Cores - 24 Threads) <br>
+**RAM:** 10 * 4GB DDR3 1066MHz <br>
+**Boot Drive:** 160GB Samsung 2.5" HDD <br>
+**Storage:** 5 * 2TB Seagate BarraCuda Compute HDD in a RAIDZ2 <br>
+
 ## PGP Keys
 View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146), or in the [PGP.pub](https://github.com/MRegirouard/MRegirouard/blob/main/PGP.pub) file in this repository.
