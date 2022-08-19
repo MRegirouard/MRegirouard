@@ -39,7 +39,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="Raspberry Pi" title="Raspberry Pi" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png">
   <img height="40" alt="Tensorflow" title="Tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
   <img height="40" alt="VEX V5" title="VEX V5" src="https://www.vexrobotics.com/media/wysiwyg/V5Logo.png">
-  <img height="40" alt="Lichess" title="Lichess" src="https://upload.wikimedia.org/wikipedia/en/6/6d/Lichess_Logo_2019.png">
+  <img height="40" alt="Lichess" title="Lichess" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lichess_Logo_2019.svg/250px-Lichess_Logo_2019.svg.png">
   <img height="40" alt="Google" title="Google" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png">
   <img height="30" alt="NPM" title="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png">
   <img height="40" alt="NASM" title="NASM" src="https://akash-nasm-tutorial.netlify.app/img/nasm-logo.png">
