@@ -20,6 +20,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="Processing" title="Processing" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png">
   <img height="40" alt="Assembly" title="Assembly" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png">
   <img height="40" alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
+  <img height="40" alt="Rust" title="Rust" src="https://user-images.githubusercontent.com/739070/62526177-3fcb4700-b828-11e9-8c7a-4e31dbf65dc7.png">
  </div>
 <br><br>
 
