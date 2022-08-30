@@ -98,6 +98,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 
 ## My Computer
 **OS:** Arch Linux (btw) x86_64 <br>
+**Kernel:** linux-zen <br>
 **Motherboard:** GIGABYTE AORUS ELITE WIFI X570 <br>
 **CPU:** AMD Ryzen 5 5600X @ 3.7GHz (1 CPU - 6 Cores - 12 Threads) <br>
 **GPU:** NVIDIA GeForce GT 1030 <br>
