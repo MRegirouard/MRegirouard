@@ -91,7 +91,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 **PyPi:** https://pypi.org/user/MRegirouard/ <br>
 **OpenSea:** https://opensea.io/monkey_man_357 <br>
 **Reddit:** https://www.reddit.com/user/eta357/ <br>
-**Discord:** eta357#1854 <br>
+**Discord:** [eta357#1854](https://discord.com/users/592832907358502961) <br>
 **VEX Robotics:** https://www.robotevents.com/teams/VRC/99119A <br>
 **Etherscan:** https://etherscan.io/address/0x59Eca7CAa673D7e87336E61979b7BD7fE130B3d8 <br>
 **GitHub Skyline:** https://skyline.github.com/MRegirouard/2021
