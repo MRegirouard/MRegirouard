@@ -7,9 +7,43 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 - 🎵 I also enjoy playing the piano, graphic designing, and flying my drone.
 - ⚡ Fun Fact: I am an early investor in ELONGATE 🚀
 
+<table>
+<tr>
+<th><h2>Metrics</h2></th>
+<th><h2>Featured</h2></th>
+</tr>
+<tr>
+<td>
+<img align="left" width="2800px" src="https://metrics.lecoq.io/MRegirouard?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York">
+</td>
+
+<td>
+<a href="https://github.com/MRegirouard/CountdownBot">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=CountdownBot&theme=dark" />
+</a>
+
+<a href="https://github.com/MRegirouard/AutoBoard-Website">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard-Website&theme=dark" />
+</a>
+
+<a href="https://github.com/MRegirouard/AutoBoard">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard&theme=dark" />
+</a>
+
+<a href="https://github.com/MRegirouard/TippingPoint">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=TippingPoint&theme=dark" />
+</a>
+
+<a href="https://github.com/MRegirouard/OpenSeaScripts">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=OpenSeaScripts&theme=dark" />
+</a>
+</td>
+</tr>
+</table>
+
 <h2>Languages I Use:</h2>
 <br>
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
+<div id="banner" width="1800px" style="overflow: hidden;justify-content:space-around;">
   <img height="40" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img height="40" alt="Java" title="Java" src="https://user-images.githubusercontent.com/46038297/127184035-6048a80f-6576-4c01-a90d-8d856a7fd1c4.png">
   <img height="40" alt="Bash" title="Bash" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38">
@@ -23,9 +57,9 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
  </div>
 <br><br>
 
-## Tools and Software I Use:
+<h2>Tools and Software I Use:<h2>
 <br>
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
+<div id="banner" width="1800px" style="overflow: hidden;justify-content:space-around;">
   <img height="40" alt="Arch Linux" title="Arch Linux" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
   <img height="40" alt="Ubuntu 20.04" title="Ubuntu 20.04" src="https://miro.medium.com/max/512/1*ZLVwDPb9UFXACsXy5LfO9Q.png">
   <img height="40" alt="Android" title="Android" src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png">
@@ -52,39 +86,7 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
   <img height="40" alt="Tabby" title="Tabby" src="https://ph-files.imgix.net/d7601b7e-8eb5-4248-a8bb-1584f35e1316.png?auto=format">
   <img height="40" alt="Docker" title="Docker" src="https://clouddayscom.files.wordpress.com/2020/06/docker-logo.png">
 </div>
-<br><br>
-
-## My Stats (Made by [anuraghzra](https://github.com/anuraghazra/github-readme-stats)):
-<br><br>
-<img align="center" height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=MRegirouard&theme=dark&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRegirouard&theme=dark&layout=compact">
-
-<a href="https://github.com/MRegirouard/MonkeyMenSite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=MonkeyMenSite&theme=dark" />
-</a>
-
-<a href="https://github.com/MRegirouard/CountdownBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=CountdownBot&theme=dark" />
-</a>
-
-<a href="https://github.com/MRegirouard/AutoBoard-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard-Website&theme=dark" />
-</a>
-
-<a href="https://github.com/MRegirouard/AutoBoard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard&theme=dark" />
-</a>
-
-<a href="https://github.com/MRegirouard/TippingPoint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=TippingPoint&theme=dark" />
-</a>
-
-<a href="https://github.com/MRegirouard/OpenSeaScripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=OpenSeaScripts&theme=dark" />
-</a>
-
-## Metrics
-![Metrics](https://metrics.lecoq.io/MRegirouard?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
+<hr>
 
 ## Links
 **Twitter:** [monkey_man_357](https://twitter.com/monkey_man_357) <br>
