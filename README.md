@@ -42,16 +42,12 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 </table>
 
 <h2>Languages I Use:</h2>
-<br>
 <div id="banner" width="1800px" style="overflow: hidden;justify-content:space-around;">
-  <img height="40" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img height="40" alt="Java" title="Java" src="https://user-images.githubusercontent.com/46038297/127184035-6048a80f-6576-4c01-a90d-8d856a7fd1c4.png">
-  <img height="40" alt="Bash" title="Bash" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38">
   <img height="40" alt="Python" title="Python" src="https://img.icons8.com/color/452/python--v1.png">
   <img height="40" alt="SQL" title="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
   <img height="40" alt="C++" title="C++" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
-  <img height="40" alt="Processing" title="Processing" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png">
-  <img height="40" alt="Assembly" title="Assembly" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png">
+  <img height="40" alt="MIPS" title="MIPS" src="https://camo.githubusercontent.com/42e3a95be3af337c41947c7b6f099d4f71020920af2da0e0dd9499d937c1d0a7/68747470733a2f2f6173736574732e657865726369736d2e696f2f747261636b732f6d6970732d626f7264657265642d74757271756f6973652e706e673f73697a653d3332">
   <img height="40" alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
   <img height="40" alt="Rust" title="Rust" src="https://user-images.githubusercontent.com/739070/62526177-3fcb4700-b828-11e9-8c7a-4e31dbf65dc7.png">
  </div>
