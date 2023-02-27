@@ -4,7 +4,8 @@ I'm MRegirouard (also known as eta357) and I'm a college student and programmer.
 
 - I enjoy making (sometimes) useful projects, developing backends, learning new languages, designing software, and deploying things on Kubernetes.
 - I am interesting in algorithmic trading, open-source software, and anything at a very large scale.
-- I also enjoy playing chess and piano.
+- I also enjoy playing chess and piano, building and flying drones, and graphic design.
+- I have particpated in several hackathons, some of which my team won an award at.
 
 <table>
 <tr>
