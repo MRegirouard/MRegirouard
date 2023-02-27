@@ -78,16 +78,12 @@ I'm MRegirouard (also known as eta357) and I'm a college student and programmer.
 </div>
 
 ## Links
-**Twitter:** [monkey_man_357](https://twitter.com/monkey_man_357) <br>
 **Lichess:** [eta357](https://lichess.org/@/eta357) <br>
 **NPM:** [eta357](https://www.npmjs.com/~eta357) <br>
 **PyPi:** [MRegirouard](https://pypi.org/user/MRegirouard/) <br>
-**OpenSea:** [monkey_man_357](https://opensea.io/monkey_man_357) <br>
-**Reddit:** [eta357](https://www.reddit.com/user/eta357/) <br>
 **Discord:** [eta357#1854](https://discord.com/users/592832907358502961) <br>
-**VEX Robotics (2018-2022):** [99119A](https://www.robotevents.com/teams/VRC/99119A) <br>
-**Etherscan:** [0x59Eca7CAa673D7e87336E61979b7BD7fE130B3d8](https://etherscan.io/address/0x59Eca7CAa673D7e87336E61979b7BD7fE130B3d8) <br>
-**GitHub Skyline:** [MRegirouard](https://skyline.github.com/MRegirouard/)
+**LinkedIn:** [Ethan Girouard](https://www.linkedin.com/in/ethan-girouard-aa03ab241/) <br>
+**Devpost:** [MRegirouard](https://devpost.com/MRegirouard) <br>
 
 ## PGP Keys
 View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146), or in the [PGP.pub](https://github.com/MRegirouard/MRegirouard/blob/main/PGP.pub) file in this repository.
