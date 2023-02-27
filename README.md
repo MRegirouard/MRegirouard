@@ -6,6 +6,8 @@ I'm MRegirouard (also known as eta357) and I'm a college student and programmer.
 - I am interesting in algorithmic trading, open-source software, and anything at a very large scale.
 - I also enjoy playing chess and piano, building and flying drones, and graphic design.
 - I have particpated in several hackathons, some of which my team won an award at.
+- I am employed as a part-time remote software engineering intern at [Electronics for Imaging](https://www.efi.com/) and am the lead engineer at a startup company in the tourism industry.
+- I am in my Freshman year at [Rensselaer Polytechnic Institute](https://rpi.edu/).
 
 <table>
 <tr>
