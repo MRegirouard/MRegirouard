@@ -18,24 +18,24 @@ I'm MRegirouard (also known as eta357) and I'm a high school student and program
 </td>
 
 <td>
-<a href="https://github.com/MRegirouard/CountdownBot">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=CountdownBot&theme=dark" />
+<a href="https://github.com/MRegirouard/NodeTrader-Framework">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=NodeTrader-Framework&theme=dark" />
 </a>
 
-<a href="https://github.com/MRegirouard/AutoBoard-Website">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard-Website&theme=dark" />
-</a>
-
-<a href="https://github.com/MRegirouard/AutoBoard">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=AutoBoard&theme=dark" />
-</a>
-
-<a href="https://github.com/MRegirouard/TippingPoint">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=TippingPoint&theme=dark" />
+<a href="https://github.com/MRegirouard/CarpeHora-App">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=CarpeHora-App&theme=dark" />
 </a>
 
 <a href="https://github.com/MRegirouard/OpenSeaScripts">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=OpenSeaScripts&theme=dark" />
+</a>
+  
+<a href="https://github.com/MRegirouard/WikiHopper">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=WikiHopper&theme=dark" />
+</a>
+  
+<a href="https://github.com/MRegirouard/WrestlingScheduler">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=WrestlingScheduler&theme=dark" />
 </a>
 </td>
 </tr>
