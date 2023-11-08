@@ -9,38 +9,47 @@ I'm Ethan Girouard and I'm a college student and programmer. I've been writing c
 - I am employed as a part-time remote software engineering intern at [Electronics for Imaging](https://www.efi.com/) and I'm a co-founder of an early startup.
 - I am in my Sophomore year at [Rensselaer Polytechnic Institute](https://rpi.edu/).
 
+<h2>Featured</h2>
+
 <table>
 <tr>
-<th><h2>Metrics</h2></th>
-<th><h2>Featured</h2></th>
-</tr>
-<tr>
-<td>
-<img align="left" width="2800px" src="https://metrics.lecoq.io/MRegirouard?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York">
-</td>
 
 <td>
 <a href="https://github.com/MRegirouard/NodeTrader-Framework">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=NodeTrader-Framework&theme=dark" />
 </a>
+</td>
 
+<td>
 <a href="https://github.com/MRegirouard/CarpeHora-App">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=CarpeHora-App&theme=dark" />
 </a>
+</td>
 
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/MRegirouard/OpenSeaScripts">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=OpenSeaScripts&theme=dark" />
 </a>
+</td>
   
+<td>
 <a href="https://github.com/MRegirouard/WikiHopper">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=WikiHopper&theme=dark" />
 </a>
+</td>
   
+<tr>
+<td>
 <a href="https://github.com/MRegirouard/WrestlingScheduler">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MRegirouard&repo=WrestlingScheduler&theme=dark" />
 </a>
 </td>
+
 </tr>
+
 </table>
 
 <h2>Languages I Use:</h2>
