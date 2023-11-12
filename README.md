@@ -71,6 +71,7 @@ A financial tracking web app that allows users to track their investments across
 
 <h2>Languages I Use:</h2>
 <div id="banner" width="1800px" style="overflow: hidden;justify-content:space-around;">
+  <img height="40" alt="Visual Basic" title="Visual Basic" src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png>
   <img height="40" alt="Java" title="Java" src="https://user-images.githubusercontent.com/46038297/127184035-6048a80f-6576-4c01-a90d-8d856a7fd1c4.png">
   <img height="40" alt="Python" title="Python" src="https://img.icons8.com/color/452/python--v1.png">
   <img height="40" alt="SQL" title="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png">
