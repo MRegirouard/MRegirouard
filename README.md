@@ -52,6 +52,12 @@ Also check out my profile on my GitLab selfhosted instance: <br>
 </a>
 </td>
 
+<td>
+<a href="https://github.com/ecco257/interniverse">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ecco257&repo=interniverse&theme=dark" />
+</a>
+</td>
+
 </tr>
 
 </table>
