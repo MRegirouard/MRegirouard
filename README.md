@@ -102,9 +102,11 @@ A financial tracking web app that allows users to track their investments across
   <img height="40" alt="Neovide" title="Neovide" src="https://avatars.githubusercontent.com/u/88021264?s=280&v=4">
   <img height="40" alt="Syncthing" title="Syncthing" src="https://upload.wikimedia.org/wikipedia/commons/8/83/SyncthingAugustLogo.png">
   <img height="40" alt="CMake" title="CMake" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png">
-  <img height="40" alt="TrueNAS" title="TrueNAS" src="https://avatars.githubusercontent.com/u/53482242?s=280&v=4">
   <img height="40" alt="Nextcloud" title="Nextcloud" src="https://alternative.me/media/1280/nextcloud-screenshot-h7bxcd9k35twayd9.png">
   <img height="40" alt="Bitwarden" title="Bitwarden" src="https://static-00.iconduck.com/assets.00/bitwarden-v2-icon-512x512-cstnj11p.png">
+  <img height="40" alt="Element" title="Element" src="https://element.io/blog/content/images/2020/07/Logomark---white-on-green-1.png">
+  <img height="40" alt="ArgoCD" title="ArgoCD" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png">
+  <img height="40" alt="GitLab" title="GitLab" src="https://seeklogo.com/images/G/gitlab-logo-FAA48EFD02-seeklogo.com.png">
 </div>
 
 ## Links
