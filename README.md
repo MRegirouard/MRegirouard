@@ -9,6 +9,10 @@ I'm Ethan Girouard and I'm a college student and programmer. I've been writing c
 - I am employed as a part-time remote software engineering intern at [Electronics for Imaging](https://www.efi.com/) and I'm a co-founder of an early startup.
 - I am in my Sophomore year at [Rensselaer Polytechnic Institute](https://rpi.edu/).
 
+<h2>GitLab</h2>
+Also check out my profile on my GitLab selfhosted instance: <br>
+<a href="https://gitlab.mregirouard.com/MRegirouard">https://gitlab.mregirouard.com/MRegirouard</a>
+
 <h2>Featured</h2>
 
 <table>
