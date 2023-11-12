@@ -62,6 +62,12 @@ Also check out my profile on my GitLab selfhosted instance: <br>
 
 </table>
 
+<a href="https://gitlab.mregirouard.com/finvis">
+<h3>FinVis</h3>
+</a>
+
+A financial tracking web app that allows users to track their investments across multiple exchanges.
+
 <h2>Languages I Use:</h2>
 <div id="banner" width="1800px" style="overflow: hidden;justify-content:space-around;">
   <img height="40" alt="Java" title="Java" src="https://user-images.githubusercontent.com/46038297/127184035-6048a80f-6576-4c01-a90d-8d856a7fd1c4.png">
