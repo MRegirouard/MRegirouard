@@ -110,12 +110,13 @@ A financial tracking web app that allows users to track their investments across
 </div>
 
 ## Links
-**Lichess:** [eta357](https://lichess.org/@/eta357) <br>
 **NPM:** [eta357](https://www.npmjs.com/~eta357) <br>
 **PyPi:** [MRegirouard](https://pypi.org/user/MRegirouard/) <br>
-**Discord:** [eta357#1854](https://discord.com/users/592832907358502961) <br>
-**LinkedIn:** [Ethan Girouard](https://www.linkedin.com/in/ethan-girouard-aa03ab241/) <br>
+**Discord:** [eta357](https://discord.com/users/592832907358502961) <br>
+**LinkedIn:** [Ethan Girouard](https://www.linkedin.com/in/ethan-girouard/) <br>
 **Devpost:** [MRegirouard](https://devpost.com/MRegirouard) <br>
+**Rensselaer Center for Open Source:** [Ethan Girouard](https://new.rcos.io/users/286/?semester=202308) <br>
+**VEX Robotics (2018-2022)**: [Team 099119A](https://www.robotevents.com/teams/VRC/99119A) <br>
 
 ## PGP Keys
 View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146), or in the [PGP.pub](https://github.com/MRegirouard/MRegirouard/blob/main/PGP.pub) file in this repository.
