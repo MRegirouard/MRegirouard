@@ -117,6 +117,7 @@ A financial tracking web app that allows users to track their investments across
 **Devpost:** [MRegirouard](https://devpost.com/MRegirouard) <br>
 **Rensselaer Center for Open Source:** [Ethan Girouard](https://new.rcos.io/users/286/?semester=202308) <br>
 **VEX Robotics (2018-2022)**: [Team 099119A](https://www.robotevents.com/teams/VRC/99119A) <br>
+**Element**: [@eta357:mregirouard.com](https://matrix.to/#/@eta357:mregirouard.com) <br>
 
 ## PGP Keys
 View my public key on [keys.openpgp.org](https://keys.openpgp.org/search?q=232214942CB8AA56277B476E7BCDC36DFD11C146), or in the [PGP.pub](https://github.com/MRegirouard/MRegirouard/blob/main/PGP.pub) file in this repository.
