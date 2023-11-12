@@ -65,6 +65,7 @@ Also check out my profile on my GitLab selfhosted instance: <br>
 <a href="https://gitlab.mregirouard.com/finvis">
 <h3>FinVis</h3>
 </a>
+<img height="60" src="https://gitlab.mregirouard.com/finvis/finvis/-/raw/main/public/finvis_logo.png?ref_type=heads">
 
 A financial tracking web app that allows users to track their investments across multiple exchanges.
 
