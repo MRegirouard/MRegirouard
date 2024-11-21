@@ -1,17 +1,17 @@
 # Hello
 
-I'm Ethan Girouard and I'm a college student and programmer. I've been writing code for around 10 years.
+I'm Ethan Girouard and I'm a college student and programmer. I've been writing code for around 11 years.
 
 - I enjoy making useful projects, programming in Rust, designing software, and deploying things on Kubernetes.
 - I am interesting in algorithmic trading, open-source software, and anything at a very large scale.
 - I also enjoy playing chess and piano, building and flying drones, and graphic design.
 - I like attending hackathons, and I've won numerous team awards.
-- I am employed as a part-time remote software engineering intern at [Electronics for Imaging](https://www.efi.com/) and I'm a co-founder of an early startup.
-- I am in my Sophomore year at [Rensselaer Polytechnic Institute](https://rpi.edu/).
+- I am employed as a part-time student assistant at the New York State Office of IT Services on the WebNY Platform team, and I'm a co-founder of an early startup.
+- I am in my junior year at [Rensselaer Polytechnic Institute](https://rpi.edu/).
 
-<h2>GitLab</h2>
-Also check out my profile on my GitLab selfhosted instance: <br>
-<a href="https://gitlab.mregirouard.com/MRegirouard">https://gitlab.mregirouard.com/MRegirouard</a>
+<h2>Gitea</h2>
+Also check out my profile on my Gitea selfhosted instance: <br>
+<a href="https://gitea.mregirouard.com/eta357">https://gitea.mregirouard.com/eta357</a>
 
 <h2>Featured</h2>
 
